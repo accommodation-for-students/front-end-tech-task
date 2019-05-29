@@ -1,68 +1,37 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Junior Front-End Developer Tech Task #
 
-## Available Scripts
+## Introduction ##
 
-In the project directory, you can run:
+This is a short exercise to rebuild the property card component shown in the `Property Grid Example` section below. Don't worry about rendering multiple cards, please focus on rendering one card showing all of the following elements:
 
-### `npm start`
+- Rent price per week (pw)
+- What bills are included
+- Number of rooms available
+- Property title (1 bed house, Manchester)
+- Address (Foo Road, Bar, F00 B4Z)
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The centre property on the second row of the example image is an example of this. This is the property with the title `6 bed house, Moldgreen`.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## To do ##
 
-### `npm test`
+- Clone repository
+- Run the app with `npm run`
+- Run the tests with `npm test`
+- Feel free to remove the placeholder `Message` component
+- Build the property card component
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Extra challenges if you'd like to attempt them:
 
-### `npm run build`
+- Layout multiple cards in a 3 column grid
+- Only render properties with the property type `house`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Notes ##
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+- You can find mock data for some properties in `src/data/properties.js`
+- You will find variables for all the colours you need in `src/App.scss` 
+- For the map pin icon you can use the existing component in `src/components/MapPinIcon.js` 
+- The font used `Apax` is already available and can be used with the following property in your selectors `font-family: 'Apax', Helvetica, Arial, sans-serif`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Property Grid Example ##
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![Example Image](/example.png "Example")
