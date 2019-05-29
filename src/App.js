@@ -1,5 +1,7 @@
-import React from 'react';
+import React from 'react'
 import Message from './components/Message'
-import './App.scss';
+import properties from './data/properties'
 
-export default () => <Message text="Hello, world!" /> 
+import './App.scss'
+
+export default () => <Message text={`Welcome to ${properties[0].address.city}`} /> 
