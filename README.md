@@ -16,7 +16,7 @@ The centre property on the second row of the example image is an example of this
 
 - Clone repository
 - Install the project's dependencies with `npm i`
-- Run the app with `npm run`
+- Run the app with `npm start`
 - Run the tests with `npm test`
 - Feel free to remove the placeholder `Message` component
 - Build the property card component
