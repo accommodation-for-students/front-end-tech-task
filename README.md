@@ -4,7 +4,7 @@ First off, **don't worry**! This is a really quick coding challenge just to see 
 
 **Try to focus on doing your best work, rather than rushing to complete everything.** You'll get more points for accuracy and attention to detail over speed.
 
-If you get stuck or need some help, we're here to give you a hand! Helping eachother out is a big part of working at AFS.
+If you get stuck or need some help, we're here to give you a hand! Helping each other out is a big part of working at AFS.
 
 ## What we'd like you to do
 
