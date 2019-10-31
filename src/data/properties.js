@@ -16,8 +16,9 @@ module.exports = [
     },
     thumbnails: [
       {
-        url: 'https://img.gs/vvjnmlqfld/371/https://s3.eu-west-2.amazonaws.com/media.estateagentfeeds.com/properties/adverts/xl/bbc4cd33ff8bc2cfdff66557dbd84a85_0.jpg',
-      }
+        url:
+          'https://img.gs/vvjnmlqfld/371/www.accommodationforstudents.com/images/properties/lphs_3256_main19122018133534.jpg',
+      },
     ],
     terms: {
       billsIncluded: 'some',
@@ -44,8 +45,9 @@ module.exports = [
     },
     thumbnails: [
       {
-        url: 'https://img.gs/vvjnmlqfld/371/https://estateagentfeeds.com/properties/adverts/xl/5b52e27a9d5bf294f5b593c4c071500e_0.jpg',
-      }
+        url:
+          'https://img.gs/vvjnmlqfld/371/www.accommodationforstudents.com/images/properties/lphs_491_main29072019102342.jpg',
+      },
     ],
     terms: {
       billsIncluded: 'all',
@@ -72,8 +74,9 @@ module.exports = [
     },
     thumbnails: [
       {
-        url: 'https://img.gs/vvjnmlqfld/371/www.accommodationforstudents.com/images/properties/128677_Main.jpg?28052019',
-      }
+        url:
+          'https://img.gs/vvjnmlqfld/371/www.accommodationforstudents.com/images/properties/lphs_1823_main15062016103618.jpg',
+      },
     ],
     terms: {
       billsIncluded: 'none',
@@ -100,8 +103,9 @@ module.exports = [
     },
     thumbnails: [
       {
-        url: 'https://img.gs/vvjnmlqfld/371/www.accommodationforstudents.com/images/properties/118630_Main.jpg?28052019',
-      }
+        url:
+          'https://img.gs/vvjnmlqfld/371/www.accommodationforstudents.com/images/properties/lphs_1808_main26052016151657.jpg',
+      },
     ],
     terms: {
       billsIncluded: 'some',
@@ -128,8 +132,9 @@ module.exports = [
     },
     thumbnails: [
       {
-        url: 'https://img.gs/vvjnmlqfld/371/https://s3.eu-west-2.amazonaws.com/media.estateagentfeeds.com/properties/adverts/xl/076db4058c59c7390c4ceec61646ea33_0.jpg',
-      }
+        url:
+          'https://img.gs/vvjnmlqfld/371/www.accommodationforstudents.com/images/properties/lphs_1770_main13122018142502.jpg',
+      },
     ],
     terms: {
       billsIncluded: 'all',
@@ -156,8 +161,9 @@ module.exports = [
     },
     thumbnails: [
       {
-        url: 'https://img.gs/vvjnmlqfld/371/https://s3.eu-west-2.amazonaws.com/media.estateagentfeeds.com/properties/adverts/xl/5655cf23be4dda7082c8bb3a8d8f8016_0.jpg',
-      }
+        url:
+          'https://img.gs/vvjnmlqfld/371/www.accommodationforstudents.com/images/properties/lphs_1659_main25102018172649.jpg',
+      },
     ],
     terms: {
       billsIncluded: 'none',
