@@ -4,4 +4,6 @@ import properties from './data/properties'
 
 import './App.scss'
 
-export default () => <Message text={`Welcome to ${properties[0].address.city}`} /> 
+export default () => (
+  <Message text={`Welcome to ${properties[0].address.city}`} />
+)
